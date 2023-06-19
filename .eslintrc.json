@@ -1,0 +1,6 @@
+{
+    "extends": ["plugin:@next/next/recommended", "@telefonica/eslint-config"],
+    "parserOptions": {
+        "requireConfigFile": false
+    }
+}
